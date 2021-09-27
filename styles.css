@@ -37,6 +37,7 @@ nav{
     padding: 0.6rem;
     font-family: 'Annie Use Your Telescope', cursive;
     font-size: x-large;
+    color: black;
 }
 
 .output{
@@ -47,6 +48,7 @@ nav{
 }
 
 footer{
+    margin-top: 1.5rem;
     text-align: center;
     background-color: yellow;
     bottom: 0;box-sizing: border-box;
@@ -63,5 +65,6 @@ footer p {
     text-align: center;
     width: 60%;
     margin: auto;
-    
+    font-size: x-large;
+
 }
